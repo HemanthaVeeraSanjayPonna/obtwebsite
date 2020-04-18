@@ -1,0 +1,113 @@
+body{
+margin:0px;
+/* font-family:verdana,sans-serif; */
+font-family: 'Amaranth', sans-serif;
+ text-align: center;
+background-color: #ecfeff;
+font-size: 25px;
+}
+.top-container{
+  background-color: #b9f9ff;
+  padding-top: 10%;
+  display:inline-block;
+  position:relative;
+   width:100%;
+}
+h1{
+  margin-block-start: 0px;
+  font-size:90px;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+
+}
+h3{
+  font-size: 28px;
+}
+
+.bottom-container{
+  background-color: #d2fafb;
+}
+#mou{
+  height:auto;
+width:100%;
+
+}
+.clo{
+  height:60px;
+  width:auto;
+  position:absolute;
+    top:3%;
+   right:5%;
+}
+.clou{
+  height:120px;
+  width:auto;
+  position:absolute;
+  top:40%;
+   left:10%;
+}
+#hell{
+  font-size:60px;
+  margin-bottom: 10px;
+  color:#ff6363;
+}
+.hr{
+  height:0px;
+  width:5%;
+background-color: #ecfeff;
+border:0;
+border-top: dotted 8px;
+ border-color: #5edfff;
+}
+.bird{
+  height:40%;
+  width:auto;
+  position: absolute;
+  top:40%;
+  left:5%;
+
+}
+.btn{
+  background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:42px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Baloo Bhaina 2', cursive;
+	font-size:20px;
+	font-weight:bold;
+	padding:11px 44px;
+	text-decoration:none;
+   margin-bottom: 7%;
+}
+.darth{
+  border-radius: 50%;
+  height: auto;
+  width:30%;
+  float: left;
+  margin-right: 100px;
+
+}
+.profile{
+  margin: 200px auto 200px auto ;
+  text-align: left;
+  width:50%;
+
+}
+
+.subscribebtn{
+  box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);
+	background-color:#fe1a00;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:24px;
+  font-family: 'Baloo Bhaina 2', cursive;
+	/* font-weight:bold; */
+	padding:6px 24px;
+	text-decoration:none;
+}
